@@ -1,11 +1,17 @@
 # Hi, I’m Andrey Mishin
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tamagotchiprim3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://t.me/jwhhhhhhh" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@https://t.me/jwhhhhhhh-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
+    <img
+      src="https://img.shields.io/badge/Telegram-?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=26A5E4"
+      alt="Telegram"
+    />
   </a>
 </p>
 
