@@ -1,7 +1,7 @@
 # Hi, I’m Andrey Mishin
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tamagotchiprim3/)" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2"
       alt="LinkedIn"
