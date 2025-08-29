@@ -10,7 +10,7 @@
   <a href="https://t.me/jwhhhhhhh" target="_blank">
     <img
       alt="Telegram"
-      src="https://img.shields.io/badge/Telegram-@jwhhhhhhh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4"
+      src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
     />
   </a>
 </p>
