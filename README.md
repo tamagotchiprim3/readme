@@ -1,4 +1,4 @@
-# Hi, I’m Andrey Mishin
+# Hi, I’m Andrew Mishin
 <p align="left">
   <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tamagotchiprim3/)" target="_blank">
     <img
